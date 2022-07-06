@@ -1,0 +1,8 @@
+﻿Cheese                                                                      //begins program
+  GlynMake(Number = 99)Brie     
+   Cheddar                                                                  //repeat loop
+    Wensleydale(GlynPrint(Number)Swiss slices of cheese on the wall.Swiss)Brie   //prints line. Number is outside the swiss tags as it is a variable
+                                                                            //replaced by 'bottles' and 'beer' at runtime
+    GlynMake(Number=Number-1) Brie                                              //Glyn operator used 
+   Coleraine(Number = 0) Brie                                         //until Number = 0
+NoCheese        
